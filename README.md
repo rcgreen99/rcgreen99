@@ -1,10 +1,9 @@
-Hi, I’m Reese Green! 
-Recent graduate of the Univeristy of Colorado at Boulder. 
-Double majored in Computer Science & Applied Mathematics. 
-Currently pursuing a career in Machine Learning while living in Portland, Oregon.
+##Hi, I’m Reese Green! 
+- Recent graduate of the Univeristy of Colorado at Boulder. 
+- Double majored in Computer Science & Applied Mathematics. 
+- Currently pursuing a career in Machine Learning while living in Portland, Oregon.
 
-Interests:
-- Deep learning, computer vision, NLP
+
 
 Links:
 Personal website: http://reesegreen.com
