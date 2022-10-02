@@ -16,12 +16,17 @@ Currently, I"m pursuing a career in Machine Learning while living in Portland, O
 
 #### Machine Learning
 - Python (8 years)
-- Python libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, Matplotlib
-- 
+- Python libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, Transformers, Matplotlib, Seaborn, Pytest, Rich
+- HuggingFace for Transfer learning
+- SQL, Google Big Query
+- Cuda, CudNN
+
 #### Software Development
 - C, C++
 - Javascript, HTML, and CSS for Web dev
 - Docker, Git, FastAPI
+- Unit testing, CI/CD, OO Design
+- Familiar with MacOS, Linux (Ubuntu), and Windows
 
 
 Links:
