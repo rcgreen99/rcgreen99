@@ -2,7 +2,7 @@
 I'm a Recent graduate of the Univeristy of Colorado at Boulder
 where I double majored in Computer Science & Applied Mathematics.
 
-Currently, I"m pursuing a career in Machine Learning while living in Portland, Oregon.
+Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
 
 ### Education
 - BS Computer Science, Unveristy of Colorado (2018-2022)
