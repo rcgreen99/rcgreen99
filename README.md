@@ -9,7 +9,7 @@ Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
 - BS Applied Mathematics, Unversity of Colorado (2018-2021)
 
 ### Experience
-- Associate Machine Learning Engineer at KUNGFU.AI (2022)
+- Associate Machine Learning Engineer at KUNGFU.AI (2022-Present
 - Associate Machine Learning Engineer at KUNGFU.AI (Summer 2021)
 - Machine Learning Engineer Intern at KUNFU.AI (Summer 2019)
 
