@@ -17,8 +17,8 @@ Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
 
 #### Machine Learning
 - Python (8 years)
-- Python libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, Transformers, Matplotlib, Seaborn, Pytest, Rich
-- HuggingFace for Transfer learning
+- Python libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, Transformers, Matplotlib, Pytest
+- HuggingFace, spaCy
 - SQL, Google Big Query
 - Cuda, CudNN
 
