@@ -3,8 +3,6 @@ Associate Machine Learning Engineer at KUNGFU.AI.
 
 Double majored in Computer Science & Applied Mathematics at the Univeristy of Colorado at Boulder.
 
-Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
-
 ### Education
 - BS Computer Science, Unveristy of Colorado (2018-2022)
 - BS Applied Mathematics, Unversity of Colorado (2018-2021)
