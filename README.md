@@ -1,6 +1,7 @@
 ## Hi, I'm Reese Green
-I'm a Recent graduate of the Univeristy of Colorado at Boulder
-where I double majored in Computer Science & Applied Mathematics.
+Associate Machine Learning Engineer at KUNGFU.AI. 
+
+Double majored in Computer Science & Applied Mathematics at the Univeristy of Colorado at Boulder.
 
 Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
 
