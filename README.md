@@ -17,17 +17,16 @@ Currently, I'm working at KUNGFU.AI as an Associate Machine Learning Engineer
 
 #### Machine Learning
 - Python (8 years)
-- Python libraries: NumPy, Pandas, PyTorch, TensorFlow, Keras, Transformers, Matplotlib, Pytest
+- numpy, pandas, matplotlib, seaborn
+- torch, tensorflow, keras, transformers, cv2
 - HuggingFace, spaCy
 - SQL, Google Big Query
-- Cuda, CudNN
 
 #### Software Development
-- C, C++
-- Javascript, HTML, and CSS for Web dev
+- Unit testing, CI/CD, Design patterns, TTD
+- Familiarity with C, C++
+- AWS S3, AWS ECS, AWS Lambda, AWS SageMaker
 - Docker, Git, FastAPI
-- Unit testing, CI/CD, OO Design
-- Familiar with MacOS, Linux (Ubuntu), and Windows
 
 
 Links:
