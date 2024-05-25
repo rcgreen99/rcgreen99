@@ -1,32 +1,28 @@
-## Hi, I'm Reese Green
-Associate Machine Learning Engineer at KUNGFU.AI. 
-
-Double majored in Computer Science & Applied Mathematics at the Univeristy of Colorado at Boulder.
+## Reese Green
+Machine Leraning Engineer at mbue.
 
 ### Education
 - BS Computer Science, Unveristy of Colorado (2018-2022)
 - BS Applied Mathematics, Unversity of Colorado (2018-2021)
 
 ### Experience
-- Associate Machine Learning Engineer at KUNGFU.AI (2022-Present)
+- Machine Learning Engineer at mbue (2023Nov-Present)
+- Associate Machine Learning Engineer at KUNGFU.AI (Sept 2022-Nov 2023)
 - Associate Machine Learning Engineer at KUNGFU.AI (Summer 2021)
 - Machine Learning Engineer Intern at KUNFU.AI (Summer 2019)
 
 ### Skills
 
-#### Machine Learning
-- Python (8 years)
-- numpy, pandas, matplotlib, seaborn
-- torch, tensorflow, keras, transformers, cv2
-- HuggingFace, spaCy
-- SQL, Google Big Query
+#### AI and Machine Learning
+- Python (6+ years)
+- Deep Learning with PyTorch
+- OpenCV, sklearn, numpy, pandas, matplotlib, etc
+- Experience with LLMs, CNNs, ViTs, Transformers, RCNNs, etc
 
 #### Software Development
-- Unit testing, CI/CD, Design patterns, TTD
-- Familiarity with C, C++
-- AWS S3, AWS ECS, AWS Lambda, AWS SageMaker
-- Docker, Git, FastAPI
-
+- Git, Docker
+- OOP and functional programming
+- Experience with AWS, GCP, and Azure 
 
 Links:
 Personal website: http://reesegreen.com
