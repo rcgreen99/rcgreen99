@@ -6,7 +6,7 @@ Machine Leraning Engineer at mbue.
 - BS Applied Mathematics, Unversity of Colorado (2018-2021)
 
 ### Experience
-- Machine Learning Engineer at mbue (Nob 2023 - Present)
+- Machine Learning Engineer at mbue (Nov 2023 - Present)
 - Associate Machine Learning Engineer at KUNGFU.AI (Sept 2022-Nov 2023)
 - Associate Machine Learning Engineer at KUNGFU.AI (Summer 2021)
 - Machine Learning Engineer Intern at KUNFU.AI (Summer 2019)
